@@ -1,0 +1,8 @@
+- Recoil for weapons on vest/arms (One-hand / Two-hand)
+- Explosion with Grenades
+- Directional bullet 
+- Zombie Attacked
+- Reloading Guns
+- Melee Attack
+- Death
+- Wrong Targets
