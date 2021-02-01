@@ -1,14 +1,12 @@
 - Recoil for weapons on vest/arms (One-hand / Two-hand)
-  - Pistol
-  - SMG
-  - Assault
-  - Shotgun
-  - Sniper
-- Explosion with Grenades
-- Directional bullet 
-- Zombie Attacked
-- Reloading Guns
+  - Pistol => VA
+  - SMG => VA
+  - Assault => VA
+  - Shotgun => VA
+  - Sniper => VA
+- Explosion with Grenades => VA
+- Directional bullet => V
+- Reloading Guns => A
 - Melee Attack
-  - Combat knife
-- Death
-- Wrong Targets
+  - Combat knife => VA
+- Death => V
