@@ -1,14 +1,34 @@
-- Wind effect even flying/falling 
-- Recoil for weapons on vest/arms 
-- Grapple hook deployment/attaching to walls in arms 
-- shield/ health up 
-- shield break 
-- low health heartbeat 
-- death effect 
-- respawn 
-- incoming directional bullet/arrow fire 
-- incoming rockets/explosions 
-- pulling back and releasing arrows 
-- Unique weapon feedback (like that lazer gun that sticks to your opponents) 
-- Headshot / meleed in the face for Tactal - Melee strikes incoming 
-- Melee strikes landing on arms Just off the top of my head 
+[Vest]
+
+- Recoil for Weapons
+- Wind Effect while Flying
+- Grapple Hook Deployment & Attaching
+- Shield Up
+- Health Up
+- Shield Break
+- Low Health Heartbeat
+- Death
+- Respawn
+- Directional Bullet
+- Explosion
+- Shooting Arrows
+- Unique Weapon Feedback
+- Melee Attacked
+
+
+
+[Arms]
+
+- Recoil for Weapons
+- Grapple Hook Deployment & Attaching
+- Explosion
+- Shooting Arrows
+- Unique Weapon Feedback
+- Melee Attacked
+
+
+
+[Head]
+
+- Headshot
+- Melee Attacked
