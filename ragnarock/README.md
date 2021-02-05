@@ -4,7 +4,6 @@
 - Hit Crash
 - Charge Level 1 & 2
 - Vikings Fury
-- Wind with Velocity
 - Medal Achievement
 
 
