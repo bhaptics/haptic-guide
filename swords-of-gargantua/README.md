@@ -1,31 +1,32 @@
 [Vest]
 
-- Slash Block $
-- Low Health Heartbeat $
-- Death $
+- Slash Block
+- Low Health Heartbeat
+- Death
 - Recoil for Weapons
-- Weapon Crashed
+- Crashed Weapon Slashed
 - Weapon Runed
-- Weapon Slots $
-- Melee Attacked $
-- Heal Up $
-- Dash $
-- Stage Clear $
+- Weapon Slots
+- Melee Attacked
+- Range Attacked
+- Heal Up
+- Dash
+- Stage Clear
 
 
 
 [Arms]
 
-- Slash Block
+- Shield Block
 - Recoil for Weapons
-- Weapon Crashed
+- Crashed Weapon Slashed
 - Weapon Runed
-- Melee Attacked
+- Weapon Equip
 - Heal Up
 
 
 
 [Head]
 
-- Melee Attacked $
-- Dash $
+- Melee Attacked
+- Dash
