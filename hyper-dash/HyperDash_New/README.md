@@ -1,4 +1,4 @@
-
+﻿
 
 ### Falling into water. 
 * IntoWater.tact (vest)
@@ -21,9 +21,9 @@
 
 
 ### About Directional Damage
-* stronger haptic pattern for damage would be better -->  By increasing intensity and duration, stronger happatern will be generated.
-* About the headshot -> If user dont't have head gear, by checking head device (Tactal) is connected, alternative hatpic patterns can be generated to the Vest 
-* while getting hit multiple times in a short time, only last one generated fully. --> By changing the identifier all the damage patterns will be generated without missing. 
+* Stronger haptic patterns for damage would be better -->  By increasing intensity and duration, stronger haptic patterns will be generated.
+* About the headshot -> If a user doesn't have a head gear, by checking head device (Tactal) is connected, alternative haptic patterns can be generated to the Vest 
+* while getting hit multiple times in a short time, only the last one generated fully. --> By changing the identifier all the damage patterns will be generated without missing. 
 
 ```c#
     private int idCount = 0;
