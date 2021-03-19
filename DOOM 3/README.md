@@ -41,21 +41,21 @@
 * Shield break;
 * Spider Attack: https://youtu.be/COz0cnptXJs?t=1744
 * low health
+* https://youtu.be/COz0cnptXJs?t=1866
+* Flame: 데미지 전에도 무언가가 https://youtu.be/U4aRzfja8xg?t=627
 
 ## Interaction
-* Jump Up/Down
-* PDA interaction: https://youtu.be/COz0cnptXJs?t=2213
-* Door interaction: 약하게 변경 
+* Jump Up/Down: PlayerJump(Vest), PlayerLanding(Vest)
+* PDA interaction: Click_L, Click_R (Arm)
+* Door interaction: Door_Open(Vest), Door_Close(Vest)
 * Special room interaction(chamber, machine)
-* Flame: 데미지 전에도 무언가가 https://youtu.be/U4aRzfja8xg?t=627
-* Around spark with SFX (Rotational would be best but if not possible I'll give you the new one!)
+* Environmental Spark with SFX (Rotational would be best but if not possible I'll give you the new one!): Spark (Vest)
   * https://youtu.be/U4aRzfja8xg?t=438
   * https://youtu.be/U4aRzfja8xg?t=569
   * https://youtu.be/IS2xzgou0RM?t=1023
-* Item/무기 얻기 
-* Chamber - 도어처럼 약하게 팟느낌 https://youtu.be/U4aRzfja8xg?t=538
-* 바람: https://youtu.be/IS2xzgou0RM?t=994
-* 폭발:(Environmental) https://youtu.be/COz0cnptXJs?t=1866
+* ItemPickup: (Vest, Arm)
+* Chamber - Weaker https://youtu.be/U4aRzfja8xg?t=538
+* Wind: Environmental_Wind(Vest) https://youtu.be/IS2xzgou0RM?t=994
 
 
 ### Play video
