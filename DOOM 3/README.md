@@ -1,5 +1,6 @@
 ## Weapons
 * For Right Handed
+* 무기는 다 따로 만들자. 
 
 ### BFG9000 (Vest, Arm)
 * BFG9000
@@ -43,35 +44,22 @@
 
 ## Interaction
 * Jump Up/Down
-* 발자국에 맞춰서?
 * PDA interaction: https://youtu.be/COz0cnptXJs?t=2213
-* Door interaction
+* Door interaction: 약하게 변경 
 * Special room interaction(chamber, machine)
-* Flame: https://youtu.be/U4aRzfja8xg?t=627
+* Flame: 데미지 전에도 무언가가 https://youtu.be/U4aRzfja8xg?t=627
 * Around spark with SFX (Rotational would be best but if not possible I'll give you the new one!)
   * https://youtu.be/U4aRzfja8xg?t=438
   * https://youtu.be/U4aRzfja8xg?t=569
   * https://youtu.be/IS2xzgou0RM?t=1023
 * Item/무기 얻기 
-* Chamber - 엘베: https://youtu.be/U4aRzfja8xg?t=538
-
-* 시체 부딪힐 때: https://youtu.be/U4aRzfja8xg?t=805
+* Chamber - 도어처럼 약하게 팟느낌 https://youtu.be/U4aRzfja8xg?t=538
 * 바람: https://youtu.be/IS2xzgou0RM?t=994
-* 해골 지나갈때? https://youtu.be/IS2xzgou0RM?t=1314
-* 폭발: https://youtu.be/COz0cnptXJs?t=1866
-* 안개?? https://youtu.be/COz0cnptXJs?t=2519
-
-
-
-
+* 폭발:(Environmental) https://youtu.be/COz0cnptXJs?t=1866
 
 
 ### Play video
 * https://www.youtube.com/watch?v=IS2xzgou0RM
 
 ### Weapon List
-* BFG9000
-* Machine Gun
-* Chain Gun
-* 
 * https://doom.fandom.com/wiki/Category:Doom_3_weapons
