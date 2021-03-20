@@ -65,14 +65,13 @@
 #### <u>*TO-DO*</u>
 
 - Flame: 데미지 전에도 무언가가 https://youtu.be/U4aRzfja8xg?t=627 (=> 느낌을 살릴 아이디어가 필요)
-- Spider Attack: https://youtu.be/COz0cnptXJs?t=1744
 
 
 
 ## Interaction (Vest)
-* Jump / Landing
-* Door interaction: DoorSlide
-* Special room interaction(chamber, machine)
+* Player Jump / Landing
+* Door interaction: DoorSlide (=> 맵 상의 약한 진동 대부분에 사용 가능)
+* Special room interaction(chamber, machine)  (=> 맵 상의 강한 진동 대부분에 사용 가능)
 * Environmental Spark with SFX (Rotational would be best but if not possible I'll give you the new one!): Spark (Vest)
   * https://youtu.be/U4aRzfja8xg?t=438
   * https://youtu.be/U4aRzfja8xg?t=569
