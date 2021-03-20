@@ -1,4 +1,4 @@
-## Weapons
+## Weapons (Vest, Arms)
 * For Right Handed
 * 무기는 다 따로 만들자. 
 
@@ -46,18 +46,18 @@
 
 
 
-## Damage
-* Bullet: https://youtu.be/COz0cnptXJs?t=1870
-* Electric
+## Damage (Vest)
+* Bullet: (+Head) https://youtu.be/COz0cnptXJs?t=1870
+* Electric (+Head)
 * Falling
 * Hit by Fireball: https://youtu.be/COz0cnptXJs?t=2390
-* Melee1, 2: 
+* Melee1, 2:  (+Head)
   * https://youtu.be/COz0cnptXJs?t=1905
   * https://youtu.be/COz0cnptXJs?t=2877
 * Hit by Shotgun
 * Hit by FlameStrike (Arch-vile) : https://youtu.be/IS2xzgou0RM?t=875
-* Hit by Explosion: https://youtu.be/COz0cnptXJs?t=1866
-* Low health heartbeat
+* Hit by Explosion: (+Head) https://youtu.be/COz0cnptXJs?t=1866
+* Low Health Heartbeat
 * Weapon Swap
 
 
@@ -69,9 +69,9 @@
 
 
 
-## Interaction
+## Interaction (Vest)
 * Jump / Landing
-* Door interaction: DoorSlide (Vest)
+* Door interaction: DoorSlide
 * Special room interaction(chamber, machine)
 * Environmental Spark with SFX (Rotational would be best but if not possible I'll give you the new one!): Spark (Vest)
   * https://youtu.be/U4aRzfja8xg?t=438
@@ -81,8 +81,8 @@
 * Body Scan in the early story
 * Shield Get
 * Shield break
-* PDA interaction: Click_L, Click_R (Arm)
-* ItemPickup: (Arm)
+* PDA interaction: (Only Arms)
+* ItemPickup: (Only Arms)
 
 
 
