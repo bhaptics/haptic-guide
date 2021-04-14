@@ -27,26 +27,23 @@
 
 #### Vest
 
-- Bullet
-  - Level 1 - Yellow Numbers (0~10)
-  - Level 2 - Orange Numbers (10~30)
-  - Level 3 - Red Numbers (Viper / Nova)
+- Bullet Level 1 - Yellow Numbers (0~10)
+- Bullet Level 2 - Orange Numbers (10~30)
+- Bullet Level 3 - Red Numbers (Viper / Nova)
 - Laser Beam
 
 #### Arms
 
-- Bullet
-  - Level 1 - Yellow Numbers (0~10)
-  - Level 2 - Orange Numbers (10~30)
-  - Level 3 - Red Numbers (Viper / Nova)
+- Bullet Level 1 - Yellow Numbers (0~10)
+- Bullet Level 2 - Orange Numbers (10~30)
+- Bullet Level 3 - Red Numbers (Viper / Nova)
 - Laser Beam
 
 #### Head
 
-- Bullet
-  - Level 1 - Yellow Numbers (0~10)
-  - Level 2 - Orange Numbers (10~30)
-  - Level 3 - Red Numbers (Viper / Nova)
+- Bullet Level 1 - Yellow Numbers (0~10)
+- Bullet Level 2 - Orange Numbers (10~30)
+- Bullet Level 3 - Red Numbers (Viper / Nova)
 - Laser Beam
 - Block Sight (Frost Byte / Vandal)
 
