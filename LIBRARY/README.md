@@ -49,7 +49,7 @@
 - Explosion Hit Type 1 ~ 6
 - Mine Hit Type 1 ~ 3
 - Piercing Hit Type 1 ~ 4
-- Slash Hit Type 1 ~ 11
+- Slash Hit Type 1 ~ 13
 - Flame Hit Type 1 ~ 3
 - Electric Hit Type 1 ~ 2
 
@@ -79,9 +79,25 @@
 
 #### Arms
 
-- 
+- Ping Type 1 ~ 5
+- Click Type 1 ~ 3
 
 #### Head
 
 - 
 
+
+
+## Special
+
+#### Vest
+
+- 
+
+#### Arms
+
+- 
+
+#### Head
+
+- 
