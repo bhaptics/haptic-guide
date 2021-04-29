@@ -1,38 +1,42 @@
-## Recoil
+## Attack
 
 #### Vest
 
-- Recoil Level 1
+- Recoil Type1
   - Usually Recommend for Punches / Daggers / Small Block
-- Recoil Level 2
+- Recoil Type 2
   - Usually Recommend for Pistols / Swords / Large Block
-- Recoil Level 3
+- Recoil Type 3
   - Usually Recommend for SMGs / Bowguns / Heavy Melee
-- Recoil Level 4
+- Recoil Type 4
   - Usually Recommend for Rifles / Carbines
-- Recoil Level 5
+- Recoil Type 5
   - Usually Recommend for Shotguns
-- Recoil Level 6
+- Recoil Type 6
   - Usually Recommend for Snipers / Rocket Launchers
 - Arrow
   - Pulling / Charging / Shooting
+- Charging Type 1 ~ 3
+  - Usually Recommend for Chainsaws / Skill Charge / Electric Weapons
 
 #### Arms
 
-- Recoil Level 1
+- Recoil Type 1
   - Usually Recommend for Punches / Daggers / Small Block
-- Recoil Level 2
+- Recoil Type 2
   - Usually Recommend for Pistols / Swords / Large Block
-- Recoil Level 3
+- Recoil Type 3
   - Usually Recommend for SMGs / Bowguns / Heavy Melee
-- Recoil Level 4
+- Recoil Type 4
   - Usually Recommend for Rifles / Carbines
-- Recoil Level 5
+- Recoil Type 5
   - Usually Recommend for Shotguns
-- Recoil Level 6
+- Recoil Type 6
   - Usually Recommend for Snipers / Rocket Launchers
 - Arrow
   - Charging
+- Charging Type 1 ~ 4
+  - Usually Recommend for Chainsaws / Skill Charge / Electric Weapons
 
 
 
@@ -40,15 +44,29 @@
 
 #### Vest
 
-- 
+- Bullet Hit Type 1 ~ 6
+- Shotgun Hit Type 1 ~ 3
+- Explosion Hit Type 1 ~ 6
+- Mine Hit Type 1 ~ 3
+- Piercing Hit Type 1 ~ 4
+- Slash Hit Type 1 ~ 11
+- Flame Hit Type 1 ~ 3
+- Electric Hit Type 1 ~ 2
 
 #### Arms
 
-- 
+- Bullet Hit Type 1 ~ 6
+- Explosion Hit Type 1 ~ 2
+- Slash Hit Type 1 ~ 8
+- Electric Hit Type 1 ~ 2
 
 #### Head
 
-- 
+- Bullet Hit Type 1 ~ 4
+- Explosion Hit Type 1 ~ 3
+- Slash Hit Type 1 ~ 6
+- Electric Hit Type 1 ~ 2
+- Block Sight
 
 
 
@@ -56,7 +74,8 @@
 
 #### Vest
 
-- 
+- Jumping
+- Landing
 
 #### Arms
 
