@@ -38,6 +38,14 @@
 - Charging Type 1 ~ 4
   - Usually Recommend for Chainsaws / Skill Charge / Electric Weapons
 
+#### Hands
+
+- Punch Type 1 ~ 5
+
+#### Feet
+
+- Kick Type 1 ~ 4
+
 
 
 ## Hit
@@ -103,6 +111,17 @@
 
 - Eye Contact
 
+#### Hands
+
+- High Five
+
+#### Feet
+
+- Walking
+- Running
+- Jumping
+- Landing
+
 
 
 ## Special
@@ -124,3 +143,13 @@
 
 - Knock Knock
 - Scan Type 1 ~ 2
+
+#### Hands
+
+- Rumble
+- Scan
+
+#### Feet
+
+- Rumble
+- Scan
