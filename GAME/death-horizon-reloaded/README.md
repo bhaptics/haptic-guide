@@ -28,20 +28,18 @@
 
 #### Vest
 
-- Bullet Hit
-- Shotgun Hit
-- Sniper Hit
-- Explosion
-- Slash Front 1
-- Slash Front 2
+- Slash Front 1 ~ 3
+- Poison Hit
+- Bite Hit
+- Explosion Hit
+- Flame Hit
 
 #### Head
 
-- Head Shot
-- Explosion
-- Slash Front 1
-- Slash Front 2
-- Flash Bang
+- Slash Front 1 ~ 3
+- Poison Hit
+- Bite Hit
+- Explosion Hit
 
 
 
@@ -49,14 +47,15 @@
 
 #### Vest
 
-- Jump
+- Jumping
 - Landing
 - Death
-- Item Pick Up
 - Climbing
+- Equip Slot 1 ~ 5
+- Hold Weapon
 
 #### Arms
 
-- Hold Weapons
 - Climbing
+- Hold Weapon
 
