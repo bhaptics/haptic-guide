@@ -5,10 +5,8 @@
 - Recoil Level 1
   - Usually Recommend for Pistols
 - Recoil Level 2
-  - Usually Recommend for SMGs
-- Recoil Level 3
   - Usually Recommend for Rifles and Carbines
-- Recoil Level 4
+- Recoil Level 3
   - Usually Recommend for Shotguns
 - Melee Level 1
 - Melee Level 2
@@ -18,10 +16,8 @@
 - Recoil Level 1
   - Usually Recommend for Pistols
 - Recoil Level 2
-  - Usually Recommend for SMGs
-- Recoil Level 3
   - Usually Recommend for Rifles and Carbines
-- Recoil Level 4
+- Recoil Level 3
   - Usually Recommend for Shotguns
 - Melee Level 1
 - Melee Level 2
@@ -57,8 +53,10 @@
 - Landing
 - Death
 - Item Pick Up
+- Climbing
 
 #### Arms
 
 - Hold Weapons
+- Climbing
 
