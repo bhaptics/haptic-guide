@@ -3,26 +3,34 @@
 #### Vest
 
 - Recoil Level 1
-  - Usually Recommend for Pistols
+  - Usually Recommend for Melee
 - Recoil Level 2
-  - Usually Recommend for Rifles and Carbines
+  - Usually Recommend for Pistols
 - Recoil Level 3
+  - Usually Recommend for SMGs
+- Recoil Level 4
+  - Usually Recommend for Rifles and Carbines
+- Recoil Level 5
   - Usually Recommend for Shotguns
-- //Melee Level 1
-- //Melee Level 2
-- Throw Knife
+- Recoil Level 6
+  - Usually Recommend for Snipers
+- Throw Weapon
 
 #### Arms
 
 - Recoil Level 1
-  - Usually Recommend for Pistols
+  - Usually Recommend for Melee
 - Recoil Level 2
-  - Usually Recommend for Rifles and Carbines
+  - Usually Recommend for Pistols
 - Recoil Level 3
+  - Usually Recommend for SMGs
+- Recoil Level 4
+  - Usually Recommend for Rifles and Carbines
+- Recoil Level 5
   - Usually Recommend for Shotguns
-- //Melee Level 1
-- //Melee Level 2
-- Throw Knife
+- Recoil Level 6
+  - Usually Recommend for Snipers
+- Throw Weapon
 
 
 
@@ -30,7 +38,7 @@
 
 #### Vest
 
-- //Slash Front 1 ~ 3
+- Slash Front 1 ~ 3
 - Fall Damage 1 ~ 2
 - //Poison Hit
 - //Bite Hit
@@ -39,7 +47,7 @@
 
 #### Head
 
-- //Slash Front 1 ~ 3
+- Slash Front 1 ~ 3
 - //Poison Hit
 - //Bite Hit
 - //Explosion Hit
@@ -50,8 +58,6 @@
 
 #### Vest
 
-- //Jumping
-- //Landing
 - Death
 - Climbing
 - Equip Slot 1 ~ 5
@@ -61,4 +67,6 @@
 
 - Climbing
 - Magnetic Grab
+- Ping
+  - Usually Recommend for Click, Turn On, Touch
 
