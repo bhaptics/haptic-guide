@@ -40,17 +40,15 @@
 
 - Slash Front 1 ~ 3
 - Fall Damage 1 ~ 2
-- //Poison Hit
-- //Bite Hit
-- //Explosion Hit
-- //Flame Hit
+- Zone Damage 1 ~ 2
+- Bullet Hit
 
 #### Head
 
 - Slash Front 1 ~ 3
-- //Poison Hit
-- //Bite Hit
-- //Explosion Hit
+- Zone Damage 1 ~ 2
+- Bullet Hit
+- HeadAttack
 
 
 
