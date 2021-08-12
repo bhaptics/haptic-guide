@@ -1,15 +1,17 @@
 #### Vest
 
 - Jumping
-- Flying Wind
+- Flying Wind Type 1 ~ 3
 - Landing
+- Death
 - Grab
 - Hook Shoot
 - Hook Attach
 - Step On Mine
-- Hit Bullet
+- Directional Bullet Hit
 - Area Damage
 - Recoil Pistol
+- Heal
 
 #### Arms
 
@@ -20,5 +22,5 @@
 
 #### Head
 
-- Hit Bullet
+- Bullet Hit
 - Area Damage
