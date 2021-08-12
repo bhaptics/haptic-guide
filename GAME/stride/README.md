@@ -1,34 +1,24 @@
-[Vest]
+#### Vest
 
-- Recoil for Weapons
-- Wind Effect while Flying
-- Grapple Hook Deployment & Attaching
-- Shield Up
-- Health Up
-- Shield Break
-- Low Health Heartbeat
-- Death
-- Respawn
-- Directional Bullet
-- Explosion
-- Shooting Arrows
-- Unique Weapon Feedback
-- Melee Attacked
+- Jumping
+- Flying Wind
+- Landing
+- Grab
+- Hook Shoot
+- Hook Attach
+- Step On Mine
+- Hit Bullet
+- Area Damage
+- Recoil Pistol
 
+#### Arms
 
+- Grab
+- Hook Shoot
+- Hook Attach
+- Recoil Pistol
 
-[Arms]
+#### Head
 
-- Recoil for Weapons
-- Grapple Hook Deployment & Attaching
-- Explosion
-- Shooting Arrows
-- Unique Weapon Feedback
-- Melee Attacked
-
-
-
-[Head]
-
-- Headshot
-- Melee Attacked
+- Hit Bullet
+- Area Damage
