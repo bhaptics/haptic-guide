@@ -2,7 +2,9 @@
 
 - Heavy Damage
 - Light Damage
+- Warning Alert
 - Ship Explosion
+- Dragging Ship
 - Death
 - Scanning
 - Mission Transition
