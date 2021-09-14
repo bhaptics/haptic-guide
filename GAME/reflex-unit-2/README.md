@@ -1,23 +1,26 @@
 #### Vest
 
-- Heavy Damage
-- Light Damage
-- Warning Alert
-- Ship Explosion
-- Dragging Ship
+- Recoil Type 1 ~ 5
+- Bullet Hit
+- Explosive Hit
+- Flame Hit
+- Mine Hit
 - Death
 - Scanning
-- Mission Transition
+- Mission Clear
+- Ride Vehicle
 
 #### Arms
 
-- Select Ship
-- Dragging Ship
-- Click Item
+- Recoil Type 1 ~ 5
+- Explosive Hit
+- Flame Hit
+- Death
 
 #### Head
 
-- Heavy Damage
-- Ship Explosion
+- Explosive Hit
+- Flame Hit
 - Death
+- Cloaking
 
