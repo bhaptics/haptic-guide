@@ -10,7 +10,7 @@
   - SN1 / SN2
 - Launcher Shot - VA
   - L2 / L3
-- Summon Orb - A
+- Summon Orb - VA
 
 
 
@@ -38,6 +38,7 @@
 ## Interaction
 
 - Dash - V
+- Landing - V
 - Empty Orb - A
 - Ready Orb - A
 - UI Select - A
