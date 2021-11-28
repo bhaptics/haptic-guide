@@ -38,7 +38,11 @@
 ## Interaction
 
 - Dash - V
-- 
+- Empty Orb - A
+- Ready Orb - A
+- UI Select - A
+- UI Confirm - A
+- Weapon Parts Attach - A
 
 
 
@@ -46,5 +50,8 @@
 
 - Start Run - V
 - Death - V
+- Heal - V
+- Loot Cog - V
+- Carrier - V
 
 
