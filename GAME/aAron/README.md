@@ -50,6 +50,7 @@
 
 - Start Run - V
 - Death - V
+- Shield Break - V
 - Heal - V
 - Loot Cog - V
 - Carrier - V
