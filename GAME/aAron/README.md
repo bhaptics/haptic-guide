@@ -17,7 +17,7 @@
 ## Hit
 
 - Ball Hit - VH
-  - Bud #1 / Bud Dark #1 / Cacti #1 / Bloom #1 / Scorpion King #3-1 / Scorpion King #4
+  - Bud #1 / Bud Dark #1 / Cacti #1 / Bloom #1 / Scorpion King #3-1
 - Slash Hit - VH
   - Mole Rat King #1 / Spider Toxin #2 / Cactus Boss #3
 - Bite Hit - V
@@ -31,7 +31,7 @@
 - Flame Hit - VH
   - Snake Naga #2 / Snake Naga #3 / Scorpion King #5
 - Poison Hit - V
-  - Scorpion King #4-1
+  - Scorpion King #4
 
 
 
