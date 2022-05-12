@@ -1,0 +1,79 @@
+SWARM haptic events
+
+VEST -
+
+Incoming damage:
+laser x
+impact x
+rocket x
+bomb x
+beam x
+inkrocket x
+smallimpact x
+bigimpact x
+electrocuted x
+
+Firing weapons:
+beamer x
+chainlightning x
+
+Pickups/Movement:
+shardcollect x
+shortheal x
+zip x
+zipimpact x
+
+Enviromental:
+gameover x
+intowater x
+falldeath1 (sharkbite) x
+bell x
+falldeath2 x
+carimpact x
+falldeath3 x
+falldeath4 x
+hugebeam x
+falldeath5 x
+falldeath6 x
+intotheportal x
+wetfeet x
+bossdeath1 x
+bossdeath2 x 
+bossdeath3 x
+bossdeath4 x
+bossdeath5 x
+cutscene1 x
+cutscene2 x
+cutscene3 x
+cutscene4 x
+cutscene5 x
+cutscenefinal x
+
+ARMS -
+
+Firing Weapons:
+swarmpistol x 
+seekboi x
+boomie x 
+beamer x
+grubb x
+grubbcharge x
+chainlightning x
+
+grappledeploy x
+grappletension x
+electrocutedgrapple x
+
+FACE -
+
+Incoming damage:
+rocket/bomb x
+electrocuted x
+
+Enviromental:
+gameover x 
+falldeath1 x
+bell x
+hugebeam x
+falldeath6 x
+cutscenefinale x

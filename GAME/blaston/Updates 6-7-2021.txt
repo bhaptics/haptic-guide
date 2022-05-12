@@ -1,0 +1,13 @@
+ADDED:
+
+Vest Hit - big_ball_impact (for those big ol pink balls), Grenade_Explode, Gun Toss Impact, stronger Laser Beam effect, increased intensity for BulletLevel1New
+
+Head Hit - Grenade Explosion damage effect
+
+Arms Hit - Grenade Explosion L/R, Shield Block L/R
+
+
+My initial feedback: The current vest integration would be improved greatly in my opinion with a tweak in the intensity. If the intensity was scaled up a step I think the effects would have a much greater impact (would help for stuff like the weapon being thrown at you doing 1 damage). 
+NOW: ** Gun Toss Effect has been included, changed intensity for level 1 impacts **
+
+The win/lose, out of platform effects, the fist bump and recoil patterns for the arms, as well as the damage files for face were all missing from our test session. If we could get those integrated we'd have a really nice, fleshed out integration that will showcase nicely for the marketing campaign. Also a PC integration would be key to showcasing the game in mixed reality =).
