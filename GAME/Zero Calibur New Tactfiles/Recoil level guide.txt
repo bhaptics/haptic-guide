@@ -1,0 +1,9 @@
+Recoil Level 0 - Silcenced weapons
+
+Recoil Level 1 - Pistols and smaller rifles.
+
+Recoil Level 2 - SMGs, bigger Pistols, Rifles
+
+Recoil Level 3 - LMGs, Big guns, heavy shotguns
+
+Recoil Level 9001 - 50 cal turret or sniper or gun with insane power or kick

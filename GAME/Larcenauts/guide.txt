@@ -1,0 +1,11 @@
+I've included some specific recoil patterns for a few champions, but otherwise as a rule of thumb you'll use these recoil levels accordingly:
+
+RecoilLevel1 - Sidearms
+RecoilLevel2 - Primaries
+RecoilLevel3 - Secondaries
+
+A few effects have multiple files (like HeadshotHit_1, 2, 3 etc). These can be randomized to add some variety to the interactions.
+
+Character specific patterns should start with thier names in all caps.
+
+Feel free to reach out for clarification on any of this or modification/additional patterns!
